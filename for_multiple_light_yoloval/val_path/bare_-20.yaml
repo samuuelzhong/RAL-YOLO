@@ -1,0 +1,6 @@
+train: E:\\project\\OD_fullmodel\\ultralytics-main\\val_RTMM\\bare-20\\frame\\images\\train # train images (relative to 'path') 118287 images
+val: E:\\project\\OD_fullmodel\\ultralytics-main\\val_RTMM\\bare-20\\frame\\images\\val # val images (relative to 'path') 5000 images
+test: E:\\project\\OD_fullmodel\\ultralytics-main\\val_RTMM\\bare-20\\frame\\images\\val
+# Classes
+nc : 2
+names: ['Road','Rock']

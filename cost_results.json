@@ -1,0 +1,386 @@
+[
+    {
+        "inference_time": 97602.08993997701,
+        "cpu_usage": 3.431477272727273,
+        "peak_mem": 1249.22265625,
+        "peak_gpu_power": 22.224,
+        "gpu_peak_mem": 48.5888671875,
+        "energy_efficiency": 1228.145458081345
+    },
+    {
+        "inference_time": 138795.91186969617,
+        "cpu_usage": 3.948557692307691,
+        "peak_mem": 1260.37890625,
+        "peak_gpu_power": 22.821,
+        "gpu_peak_mem": 60.0947265625,
+        "energy_efficiency": 2159.8352428606477
+    },
+    {
+        "inference_time": 160104.01012517713,
+        "cpu_usage": 4.549356617647058,
+        "peak_mem": 1259.84765625,
+        "peak_gpu_power": 22.38,
+        "gpu_peak_mem": 71.6005859375,
+        "energy_efficiency": 2703.482420384537
+    },
+    {
+        "inference_time": 137748.9257419133,
+        "cpu_usage": 4.226442307692308,
+        "peak_mem": 1264.32421875,
+        "peak_gpu_power": 22.45,
+        "gpu_peak_mem": 83.02978515625,
+        "energy_efficiency": 1511.8279066257614
+    },
+    {
+        "inference_time": 138330.5912334318,
+        "cpu_usage": 3.5418269230769237,
+        "peak_mem": 1265.2890625,
+        "peak_gpu_power": 22.349,
+        "gpu_peak_mem": 94.53564453125,
+        "energy_efficiency": 2107.454803981312
+    },
+    {
+        "inference_time": 139266.91247398916,
+        "cpu_usage": 4.384134615384615,
+        "peak_mem": 1268.34375,
+        "peak_gpu_power": 22.383,
+        "gpu_peak_mem": 106.04150390625,
+        "energy_efficiency": 1233.3963830279563
+    },
+    {
+        "inference_time": 138642.56093235704,
+        "cpu_usage": 4.3322115384615385,
+        "peak_mem": 1272.15625,
+        "peak_gpu_power": 22.3,
+        "gpu_peak_mem": 117.54736328125,
+        "energy_efficiency": 2190.65896982471
+    },
+    {
+        "inference_time": 134800.85468794746,
+        "cpu_usage": 3.818046874999999,
+        "peak_mem": 1273.78125,
+        "peak_gpu_power": 22.214,
+        "gpu_peak_mem": 129.05322265625,
+        "energy_efficiency": 2805.150662179713
+    },
+    {
+        "inference_time": 136615.88464998108,
+        "cpu_usage": 4.0109375,
+        "peak_mem": 1277.22265625,
+        "peak_gpu_power": 22.563,
+        "gpu_peak_mem": 140.482421875,
+        "energy_efficiency": 1263.3867898885567
+    },
+    {
+        "inference_time": 141560.1925328265,
+        "cpu_usage": 4.087911184210527,
+        "peak_mem": 1277.5234375,
+        "peak_gpu_power": 22.676,
+        "gpu_peak_mem": 151.98828125,
+        "energy_efficiency": 1244.129997665918
+    },
+    {
+        "inference_time": 131727.52012489,
+        "cpu_usage": 3.8100609756097557,
+        "peak_mem": 1278.18359375,
+        "peak_gpu_power": 22.34,
+        "gpu_peak_mem": 163.494140625,
+        "energy_efficiency": 1505.7938073257776
+    },
+    {
+        "inference_time": 141098.72982862018,
+        "cpu_usage": 4.064555921052632,
+        "peak_mem": 1280.34765625,
+        "peak_gpu_power": 22.42,
+        "gpu_peak_mem": 60.5361328125,
+        "energy_efficiency": 2035.5966645645015
+    },
+    {
+        "inference_time": 134609.67430177695,
+        "cpu_usage": 3.9209374999999995,
+        "peak_mem": 1281.5859375,
+        "peak_gpu_power": 22.119,
+        "gpu_peak_mem": 72.3818359375,
+        "energy_efficiency": 1427.8657462134524
+    },
+    {
+        "inference_time": 134092.7212722751,
+        "cpu_usage": 3.68484375,
+        "peak_mem": 1277.74609375,
+        "peak_gpu_power": 22.376,
+        "gpu_peak_mem": 83.85791015625,
+        "energy_efficiency": 2092.615336961494
+    },
+    {
+        "inference_time": 138808.03172370116,
+        "cpu_usage": 4.093509615384615,
+        "peak_mem": 1281.5,
+        "peak_gpu_power": 22.41,
+        "gpu_peak_mem": 95.41064453125,
+        "energy_efficiency": 1420.596944127262
+    },
+    {
+        "inference_time": 131395.53464827148,
+        "cpu_usage": 4.395503048780488,
+        "peak_mem": 1283.203125,
+        "peak_gpu_power": 22.657,
+        "gpu_peak_mem": 106.91650390625,
+        "energy_efficiency": 1351.310492077041
+    },
+    {
+        "inference_time": 125297.33095451389,
+        "cpu_usage": 3.981904069767441,
+        "peak_mem": 1283.0703125,
+        "peak_gpu_power": 21.942,
+        "gpu_peak_mem": 118.42236328125,
+        "energy_efficiency": 1351.8607280968315
+    },
+    {
+        "inference_time": 139780.86997162786,
+        "cpu_usage": 4.309054487179487,
+        "peak_mem": 1285.35546875,
+        "peak_gpu_power": 22.482,
+        "gpu_peak_mem": 129.92822265625,
+        "energy_efficiency": 2094.2974551221973
+    },
+    {
+        "inference_time": 138496.48267366472,
+        "cpu_usage": 3.8338942307692307,
+        "peak_mem": 1286.6953125,
+        "peak_gpu_power": 22.375,
+        "gpu_peak_mem": 141.357421875,
+        "energy_efficiency": 1422.1826219564437
+    },
+    {
+        "inference_time": 122655.01098156397,
+        "cpu_usage": 4.3911221590909095,
+        "peak_mem": 1286.49609375,
+        "peak_gpu_power": 22.407,
+        "gpu_peak_mem": 152.86328125,
+        "energy_efficiency": 1468.5920979128805
+    },
+    {
+        "inference_time": 124339.94689624482,
+        "cpu_usage": 4.0609738372093025,
+        "peak_mem": 1286.42578125,
+        "peak_gpu_power": 21.824,
+        "gpu_peak_mem": 164.369140625,
+        "energy_efficiency": 1665.0092994065
+    },
+    {
+        "inference_time": 81829.43998112029,
+        "cpu_usage": 3.924715909090909,
+        "peak_mem": 1288.4453125,
+        "peak_gpu_power": 21.846,
+        "gpu_peak_mem": 60.0947265625,
+        "energy_efficiency": 939.7614526350524
+    },
+    {
+        "inference_time": 68580.64187495114,
+        "cpu_usage": 3.978085443037975,
+        "peak_mem": 1289.921875,
+        "peak_gpu_power": 18.625,
+        "gpu_peak_mem": 71.6005859375,
+        "energy_efficiency": 1066.1039497224644
+    },
+    {
+        "inference_time": 103075.90373115988,
+        "cpu_usage": 4.095973557692308,
+        "peak_mem": 1293.4609375,
+        "peak_gpu_power": 18.386,
+        "gpu_peak_mem": 83.02978515625,
+        "energy_efficiency": 1600.66120256216
+    },
+    {
+        "inference_time": 139388.01875033174,
+        "cpu_usage": 4.093990384615385,
+        "peak_mem": 1294.9765625,
+        "peak_gpu_power": 23.0,
+        "gpu_peak_mem": 94.53564453125,
+        "energy_efficiency": 1397.7434022181058
+    },
+    {
+        "inference_time": 132281.31532938385,
+        "cpu_usage": 3.6862042682926837,
+        "peak_mem": 1295.35546875,
+        "peak_gpu_power": 22.414,
+        "gpu_peak_mem": 106.04150390625,
+        "energy_efficiency": 1565.6705839870435
+    },
+    {
+        "inference_time": 139183.20204385172,
+        "cpu_usage": 3.8018429487179493,
+        "peak_mem": 1296.0859375,
+        "peak_gpu_power": 23.241,
+        "gpu_peak_mem": 117.54736328125,
+        "energy_efficiency": 1349.0482360207488
+    },
+    {
+        "inference_time": 138495.9553046616,
+        "cpu_usage": 4.315544871794872,
+        "peak_mem": 1296.9765625,
+        "peak_gpu_power": 22.626,
+        "gpu_peak_mem": 129.05322265625,
+        "energy_efficiency": 1251.34341730903
+    },
+    {
+        "inference_time": 135961.60097981553,
+        "cpu_usage": 3.9885156250000002,
+        "peak_mem": 1296.70703125,
+        "peak_gpu_power": 22.565,
+        "gpu_peak_mem": 140.482421875,
+        "energy_efficiency": 2102.452016327476
+    },
+    {
+        "inference_time": 135784.28886877137,
+        "cpu_usage": 4.1825,
+        "peak_mem": 1296.4296875,
+        "peak_gpu_power": 22.516,
+        "gpu_peak_mem": 151.98828125,
+        "energy_efficiency": 1750.4956222544938
+    },
+    {
+        "inference_time": 132487.23762258404,
+        "cpu_usage": 3.9487500000000004,
+        "peak_mem": 1298.08203125,
+        "peak_gpu_power": 22.772,
+        "gpu_peak_mem": 163.494140625,
+        "energy_efficiency": 2080.081341562961
+    },
+    {
+        "inference_time": 119939.0770733965,
+        "cpu_usage": 3.4104861111111107,
+        "peak_mem": 1299.0546875,
+        "peak_gpu_power": 22.532,
+        "gpu_peak_mem": 60.5361328125,
+        "energy_efficiency": 1893.5628640056839
+    },
+    {
+        "inference_time": 153772.46106296434,
+        "cpu_usage": 4.6798214285714295,
+        "peak_mem": 1301.45703125,
+        "peak_gpu_power": 22.867,
+        "gpu_peak_mem": 72.3818359375,
+        "energy_efficiency": 1700.0084854124057
+    },
+    {
+        "inference_time": 133122.4596409706,
+        "cpu_usage": 3.953582317073171,
+        "peak_mem": 1301.1171875,
+        "peak_gpu_power": 22.418,
+        "gpu_peak_mem": 83.85791015625,
+        "energy_efficiency": 2673.1201891888163
+    },
+    {
+        "inference_time": 135308.95630579419,
+        "cpu_usage": 4.11453125,
+        "peak_mem": 1302.00390625,
+        "peak_gpu_power": 22.626,
+        "gpu_peak_mem": 95.41064453125,
+        "energy_efficiency": 1870.5068397448897
+    },
+    {
+        "inference_time": 127988.0672162365,
+        "cpu_usage": 4.265252976190476,
+        "peak_mem": 1302.3671875,
+        "peak_gpu_power": 22.446,
+        "gpu_peak_mem": 106.91650390625,
+        "energy_efficiency": 1351.140795382401
+    },
+    {
+        "inference_time": 127968.01842738154,
+        "cpu_usage": 3.9998511904761913,
+        "peak_mem": 1307.515625,
+        "peak_gpu_power": 22.544,
+        "gpu_peak_mem": 118.42236328125,
+        "energy_efficiency": 1596.9435435105272
+    },
+    {
+        "inference_time": 133256.08967197628,
+        "cpu_usage": 3.6335365853658534,
+        "peak_mem": 1306.08984375,
+        "peak_gpu_power": 22.647,
+        "gpu_peak_mem": 129.92822265625,
+        "energy_efficiency": 1332.4618436593394
+    },
+    {
+        "inference_time": 135825.5812015647,
+        "cpu_usage": 4.26734375,
+        "peak_mem": 1307.921875,
+        "peak_gpu_power": 22.663,
+        "gpu_peak_mem": 141.357421875,
+        "energy_efficiency": 1273.4023293838136
+    },
+    {
+        "inference_time": 132876.02503023378,
+        "cpu_usage": 4.402972560975609,
+        "peak_mem": 1307.7578125,
+        "peak_gpu_power": 22.765,
+        "gpu_peak_mem": 152.86328125,
+        "energy_efficiency": 1530.3246606156067
+    },
+    {
+        "inference_time": 127656.76275683302,
+        "cpu_usage": 3.9700892857142858,
+        "peak_mem": 1308.05078125,
+        "peak_gpu_power": 22.581,
+        "gpu_peak_mem": 164.369140625,
+        "energy_efficiency": 1374.5883332702426
+    },
+    {
+        "inference_time": 126361.33611358036,
+        "cpu_usage": 4.351744186046511,
+        "peak_mem": 1309.4609375,
+        "peak_gpu_power": 21.547,
+        "gpu_peak_mem": 60.0947265625,
+        "energy_efficiency": 1332.6696745395868
+    },
+    {
+        "inference_time": 138836.85749035963,
+        "cpu_usage": 4.510096153846154,
+        "peak_mem": 1315.21484375,
+        "peak_gpu_power": 22.92,
+        "gpu_peak_mem": 71.6005859375,
+        "energy_efficiency": 1959.7856041772782
+    },
+    {
+        "inference_time": 125276.7701921468,
+        "cpu_usage": 4.325,
+        "peak_mem": 1316.84765625,
+        "peak_gpu_power": 21.966,
+        "gpu_peak_mem": 83.02978515625,
+        "energy_efficiency": 1510.157825788609
+    },
+    {
+        "inference_time": 125277.04712499662,
+        "cpu_usage": 3.569622093023256,
+        "peak_mem": 1318.6171875,
+        "peak_gpu_power": 22.255,
+        "gpu_peak_mem": 94.53564453125,
+        "energy_efficiency": 1358.3938687571747
+    },
+    {
+        "inference_time": 132534.8952522151,
+        "cpu_usage": 4.114786585365853,
+        "peak_mem": 1319.234375,
+        "peak_gpu_power": 22.569,
+        "gpu_peak_mem": 106.04150390625,
+        "energy_efficiency": 1237.4524241075326
+    },
+    {
+        "inference_time": 134896.83161999655,
+        "cpu_usage": 4.100234375,
+        "peak_mem": 1317.3046875,
+        "peak_gpu_power": 22.744,
+        "gpu_peak_mem": 117.54736328125,
+        "energy_efficiency": 1430.615164520744
+    },
+    {
+        "inference_time": 135279.6166435482,
+        "cpu_usage": 4.528359375,
+        "peak_mem": 1318.5625,
+        "peak_gpu_power": 22.723,
+        "gpu_peak_mem": 129.05322265625,
+        "energy_efficiency": 2147.5329245258613
+    }
+]

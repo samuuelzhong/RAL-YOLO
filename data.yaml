@@ -1,0 +1,8 @@
+train: E:\project\OD_fullmodel\ultralytics-main\rock\images\train
+val: E:\project\OD_fullmodel\ultralytics-main\rock\images\val
+test: E:\project\OD_fullmodel\ultralytics-main\rock\images\val
+
+
+nc: 2
+
+names: ['Road','Rock']

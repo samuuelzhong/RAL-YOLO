@@ -1,0 +1,6 @@
+train: E:\\project\\RAL-YOLO\\rockfall_labeled\\colorjitter\\images\\train # train images (relative to 'path') 118287 images
+val: E:\\project\\RAL-YOLO\\rockfall_labeled\\colorjitter\\images\\val # val images (relative to 'path') 5000 images
+test: E:\\project\\RAL-YOLO\\rockfall_labeled\\colorjitter\\images\\val
+# Classes
+nc : 2
+names: ['Road','Rock']
